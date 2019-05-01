@@ -1,3 +1,3 @@
 # aquilatour
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/450bcbce-ca50-456b-817c-951619f66cb0/deploy-status)](https://app.netlify.com/sites/aquilatour/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df9189be-b02c-410b-934d-80621b70f062/deploy-status)](https://app.netlify.com/sites/aquilatour/deploys)
